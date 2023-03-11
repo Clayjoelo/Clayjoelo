@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Clayjoelo
-- 👀 I’m interested in Guitar, Photography, and coding of course
-- 🌱 I’m currently learning Python, and may be dabbling in HTML and CSS for future progects 
-- 📫 How to reach me clayton.leuck@gmail.com
+- 👀 I’m interested in coding and all things teh
+- 🌱 I know Python, and a little bit of HTML and CSS
+- 📫 How to reach me: clayton.leuck@gmail.com
