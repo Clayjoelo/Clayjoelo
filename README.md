@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Clayjoelo
-- 👀 I’m interested in coding and all things teh
+- 👀 I’m interested in coding and all things tech
 - 🌱 I know Python, and a little bit of HTML and CSS
 - 📫 How to reach me: clayton.leuck@gmail.com
